@@ -1,0 +1,18 @@
+EventID,EventType,EventText,XMin,XMax,yMin,yMax,ButtonAText,ButtonBText
+0,Downgrade,"You get in a car accident!  The insurance company pays for repairs, but the value of your vehicle just fell by _x!",2000,5000,0,0,na,na
+1,Expense,Your vehicle needs _x worth of repairs!,200,2000,0,0,na,na
+2,Expense,Your home needs _x worth of repairs!  ,500,8000,0,0,na,na
+3,Expense,You trip on your doorstep and break your leg!  Your out of pocket expense for your medical treatment is _x.,500,2500,0,0,na,na
+4,Expense,Your child needs braces at a cost of _x.,2000,6000,0,0,na,na
+5,Income,"A car collector notices your car at the parking lot and offers to buy it for you for _x more than you thought it was worth.  Do you sell the car to this collector, or keep it?",3000,5000,0,0,sell it,keep it
+6,Income,You boss gives you a Christmas bonus of _x!,500,1500,0,0,na,na
+7,Income,Your favorite uncle has died and left you _x from his estate as your inheritance.  ,3000,10000,0,0,na,na
+8,Ongoing,"Congratulations! You had a baby!  You earn another _y points per turn, but your expenses increase by _x per year.",3499,3501,34,36,na,na
+9,Opportunity,Your friends are going on a cruise and have invited you to go with them.  The cruise costs _x but will be lots of fun and will earn you _y points.  Do you want to go on the cruise with your friends?,1500,3500,15,25,go on the cruise,stay home
+10,Opportunity,"A family member wants you to travel overseas to visit them over the summer.  The trip will cost you _x, but you will earn _y points this turn.  Would you like to take the trip?",12000,40000,25,45,take the trip,stay home
+11,Opportunity,"An amazing new gadget has just hit the market.  Do you buy it for _x and earn _y points this turn, or be patient and wait for the price to fall?",600,1800,8,16,buy the gadget,wait
+12,Salary,An old friend has started a business and hires you to work for his company.  You get an _x raise!,4,17,0,0,na,na
+13,Salary,You find a new job for a _x raise!,3,10,0,0,na,na
+14,Salary,"You lost your job, and can't find a good job to replace it.  Your salary falls by _x!",-12,-5,0,0,na,na
+15,Salary,"You have a chance to take a part-time job.  If you do so, you will lose _y points per turn, but gain an extra _x in income.  Will you take the part time job?",10,20,-30,-12,take the job,don't take the job
+16,Upgrade,"You are considering adding a covered porch to your home.  It will cost _x, but you will gain _y points per turn.",10000,19000,5,18,build the porch,don't build the porch
